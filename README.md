@@ -1,6 +1,7 @@
 # Auto_Enter_Code_Lol
 1. Download and install python
 https://www.python.org/downloads/
+
 1.1 Install librarys:
 pip install pyautogui
 pip isntall keyboard
