@@ -3,7 +3,7 @@ import time
 import keyboard
 
 
-lmht = open("C:\\workspace\\Tool\\GetComment\\BongBayLMHT.txt", "r", encoding='utf-8').readlines()
+lmht = open("BongBayLMHT.txt", "r", encoding='utf-8').readlines()
 
 width = 1920
 Height = 1200
